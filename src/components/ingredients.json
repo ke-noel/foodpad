@@ -1,0 +1,27 @@
+{
+    "avocado": {
+        "ingredient": "avocado",
+        "shelf": "3d",
+        "fridge": "7d"
+    },
+    "chicken": {
+        "ingredient": "chicken",
+        "fridge": "2d",
+        "freezer": "9m"
+    },
+    "salmon": {
+        "ingredient": "salmon",
+        "fridge": "2d",
+        "freezer": "2m"
+    },
+    "potato": {
+        "ingredient": "potato",
+        "shelf": "2w",
+        "fridge": "4m"
+    },
+    "banana": {
+        "ingredient": "banana",
+        "shelf": "6d",
+        "fridge": "2w"
+    }
+}
