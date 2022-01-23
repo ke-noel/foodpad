@@ -1,4 +1,4 @@
-# foodpad
+# foodpad | McHacks9
 
 ## How to Use
 
