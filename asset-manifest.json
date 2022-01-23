@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foodpad/static/css/main.3cefd2df.css",
+    "main.js": "/foodpad/static/js/main.69e18549.js",
+    "static/js/787.b64b1044.chunk.js": "/foodpad/static/js/787.b64b1044.chunk.js",
+    "static/media/foodpad_black.svg": "/foodpad/static/media/foodpad_black.43159b1060da2e3181ff3688b5a007f3.svg",
+    "index.html": "/foodpad/index.html",
+    "main.3cefd2df.css.map": "/foodpad/static/css/main.3cefd2df.css.map",
+    "main.69e18549.js.map": "/foodpad/static/js/main.69e18549.js.map",
+    "787.b64b1044.chunk.js.map": "/foodpad/static/js/787.b64b1044.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cefd2df.css",
+    "static/js/main.69e18549.js"
+  ]
+}
