@@ -1,0 +1,13 @@
+.groceries {
+    background-color: #939598;
+    overflow-y: scroll;
+    max-height: 300px;
+}
+
+.add-item-box {
+    padding-bottom: 10%;
+}
+
+.GroceryList {
+    height: 100%
+}
