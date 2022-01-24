@@ -3,11 +3,17 @@
 ## How to Use
 
 - `npm install`
-- `npm run`
+- `expo start`
 
 ## Requirements
 
-- [NodeJS 17.4.0+](https://nodejs.org/en/download/current/)
+- [NodeJS 16.13.0](https://nodejs.org/en/download/)
+
+## Technology
+
+- [Expo](https://expo.dev/)
+- [NativeBase](https://nativebase.io/)
+- [React Native](https://reactnative.dev/)
 
 ## Inspiration
 
